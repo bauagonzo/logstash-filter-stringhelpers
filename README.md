@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-filter-example.svg)](https://travis-ci.org/logstash-plugins/logstash-filter-example)
+[![Travis Build Status](https://travis-ci.org/bauagonzo/logstash-filter-stringhelpers.svg)](https://travis-ci.org/bauagonzo/logstash-filter-stringhelpers)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
